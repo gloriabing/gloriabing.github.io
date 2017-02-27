@@ -1,0 +1,146 @@
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2016-12-03T10:35:37.995Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/blog/\u001b[39m","time":"2016-12-03T10:35:38.003Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/blog/_config.yml\u001b[39m","time":"2016-12-03T10:35:38.231Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2016-12-03T10:35:38.254Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-12-03T10:35:38.261Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-12-03T10:35:38.264Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-12-03T10:35:38.270Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-12-03T10:35:38.272Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-12-03T10:35:38.282Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-12-03T10:35:38.295Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-12-03T10:35:38.297Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-12-03T10:35:38.427Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Loading database.","time":"2016-12-03T10:35:38.440Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":30,"msg":"Start processing","time":"2016-12-03T10:35:38.457Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mdebug.log\u001b[39m","time":"2016-12-03T10:35:38.544Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/main.css\u001b[39m","time":"2016-12-03T10:35:38.678Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Theme config loaded.","time":"2016-12-03T10:35:38.692Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-12-03T10:35:38.693Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.eot\u001b[39m","time":"2016-12-03T10:35:38.703Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/fonts/default-skin.svg\u001b[39m","time":"2016-12-03T10:35:38.704Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.svg\u001b[39m","time":"2016-12-03T10:35:38.704Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/main.js\u001b[39m","time":"2016-12-03T10:35:38.705Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.ttf\u001b[39m","time":"2016-12-03T10:35:38.706Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/fonts/tooltip.svg\u001b[39m","time":"2016-12-03T10:35:38.706Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.woff\u001b[39m","time":"2016-12-03T10:35:38.707Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2016-12-03T10:35:38.747Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2016-12-03T10:35:38.748Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2016-12-03T10:35:38.748Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2016-12-03T10:35:38.748Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2016-12-03T10:35:38.748Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2016-12-03T10:35:38.748Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2016-12-03T10:35:38.748Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2016-12-03T10:35:38.763Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2016-12-03T10:35:38.764Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2016-12-03T10:35:38.764Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/nl.yml\u001b[39m","time":"2016-12-03T10:35:38.764Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2016-12-03T10:35:38.764Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2016-12-03T10:35:38.765Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2016-12-03T10:35:38.765Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2016-12-03T10:35:38.765Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2016-12-03T10:35:38.845Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2016-12-03T10:35:38.846Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive-post.ejs\u001b[39m","time":"2016-12-03T10:35:38.846Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2016-12-03T10:35:38.846Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2016-12-03T10:35:38.848Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2016-12-03T10:35:38.849Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header.ejs\u001b[39m","time":"2016-12-03T10:35:38.850Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/left-col.ejs\u001b[39m","time":"2016-12-03T10:35:38.850Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2016-12-03T10:35:38.850Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mathjax.ejs\u001b[39m","time":"2016-12-03T10:35:38.850Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mobile-nav.ejs\u001b[39m","time":"2016-12-03T10:35:38.851Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tools.ejs\u001b[39m","time":"2016-12-03T10:35:38.851Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/viewer.ejs\u001b[39m","time":"2016-12-03T10:35:38.851Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/category.ejs\u001b[39m","time":"2016-12-03T10:35:38.855Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/date.ejs\u001b[39m","time":"2016-12-03T10:35:38.855Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/duoshuo.ejs\u001b[39m","time":"2016-12-03T10:35:38.856Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/nav.ejs\u001b[39m","time":"2016-12-03T10:35:38.856Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share.ejs\u001b[39m","time":"2016-12-03T10:35:38.856Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/tag.ejs\u001b[39m","time":"2016-12-03T10:35:38.856Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/title.ejs\u001b[39m","time":"2016-12-03T10:35:38.856Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-12-03T10:35:39.117Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-12-03T10:35:39.117Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-12-03T10:35:39.117Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-12-03T10:35:39.117Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-12-03T10:35:39.118Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-12-03T10:35:39.118Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-12-03T10:35:39.118Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-12-03T10:35:39.123Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Database saved","time":"2016-12-03T10:35:39.139Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-12-03T10:35:46.584Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-12-03T10:35:47.427Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":30,"msg":"Have a nice day","time":"2016-12-03T10:40:59.510Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":46183,"level":20,"msg":"Database saved","time":"2016-12-03T10:40:59.525Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2016-12-03T10:41:23.441Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/blog/\u001b[39m","time":"2016-12-03T10:41:23.444Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/blog/_config.yml\u001b[39m","time":"2016-12-03T10:41:23.559Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2016-12-03T10:41:23.570Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-12-03T10:41:23.573Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-12-03T10:41:23.575Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-12-03T10:41:23.577Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-12-03T10:41:23.578Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-12-03T10:41:23.580Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-12-03T10:41:23.586Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-12-03T10:41:23.588Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-12-03T10:41:23.663Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Loading database.","time":"2016-12-03T10:41:23.672Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":30,"msg":"Start processing","time":"2016-12-03T10:41:23.681Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mdebug.log\u001b[39m","time":"2016-12-03T10:41:23.730Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/main.css\u001b[39m","time":"2016-12-03T10:41:23.857Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Theme config loaded.","time":"2016-12-03T10:41:23.870Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-12-03T10:41:23.870Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/fonts/default-skin.svg\u001b[39m","time":"2016-12-03T10:41:23.879Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.svg\u001b[39m","time":"2016-12-03T10:41:23.881Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.eot\u001b[39m","time":"2016-12-03T10:41:23.882Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.ttf\u001b[39m","time":"2016-12-03T10:41:23.882Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/fonts/tooltip.svg\u001b[39m","time":"2016-12-03T10:41:23.882Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/fonts/iconfont.woff\u001b[39m","time":"2016-12-03T10:41:23.883Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35msource/main.js\u001b[39m","time":"2016-12-03T10:41:23.885Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2016-12-03T10:41:23.915Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2016-12-03T10:41:23.915Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2016-12-03T10:41:23.915Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2016-12-03T10:41:23.915Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2016-12-03T10:41:23.915Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2016-12-03T10:41:23.915Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2016-12-03T10:41:23.916Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2016-12-03T10:41:23.936Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2016-12-03T10:41:23.936Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2016-12-03T10:41:23.936Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/nl.yml\u001b[39m","time":"2016-12-03T10:41:23.936Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2016-12-03T10:41:23.937Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2016-12-03T10:41:23.937Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2016-12-03T10:41:23.937Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2016-12-03T10:41:23.937Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2016-12-03T10:41:24.006Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2016-12-03T10:41:24.007Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2016-12-03T10:41:24.007Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive-post.ejs\u001b[39m","time":"2016-12-03T10:41:24.007Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2016-12-03T10:41:24.008Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2016-12-03T10:41:24.008Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header.ejs\u001b[39m","time":"2016-12-03T10:41:24.008Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2016-12-03T10:41:24.008Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/left-col.ejs\u001b[39m","time":"2016-12-03T10:41:24.009Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mobile-nav.ejs\u001b[39m","time":"2016-12-03T10:41:24.009Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mathjax.ejs\u001b[39m","time":"2016-12-03T10:41:24.009Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tools.ejs\u001b[39m","time":"2016-12-03T10:41:24.009Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/viewer.ejs\u001b[39m","time":"2016-12-03T10:41:24.009Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/date.ejs\u001b[39m","time":"2016-12-03T10:41:24.014Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/category.ejs\u001b[39m","time":"2016-12-03T10:41:24.015Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/duoshuo.ejs\u001b[39m","time":"2016-12-03T10:41:24.015Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/nav.ejs\u001b[39m","time":"2016-12-03T10:41:24.015Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/tag.ejs\u001b[39m","time":"2016-12-03T10:41:24.016Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share.ejs\u001b[39m","time":"2016-12-03T10:41:24.016Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/title.ejs\u001b[39m","time":"2016-12-03T10:41:24.016Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-12-03T10:41:24.252Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-12-03T10:41:24.253Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-12-03T10:41:24.253Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-12-03T10:41:24.254Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-12-03T10:41:24.254Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-12-03T10:41:24.254Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-12-03T10:41:24.255Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-12-03T10:41:24.260Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Database saved","time":"2016-12-03T10:41:24.272Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-12-03T10:41:28.835Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-12-03T10:41:29.264Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":30,"msg":"Farewell","time":"2016-12-03T10:41:57.104Z","v":0}
+{"name":"hexo","hostname":"gloriadeMacBook-Pro.local","pid":47812,"level":20,"msg":"Database saved","time":"2016-12-03T10:41:57.114Z","v":0}
